@@ -1,10 +1,10 @@
 # ICSSensor-
 # SWaT sensor Features and thier descrptions 
 
-|No	|Feature |	Description  
-
-1	FIT101 	Flow meter, measure inflow into raw water tank 
-2	LIT101	Level transmitter, raw water tank level 
+|No	|Feature |	Description|  
+|----|------------|----------|
+|1 |	FIT101 |	Flow meter, measure inflow into raw water tank|
+|2|	LIT101|	Level transmitter, raw water tank level| 
 3	AIT201	Conductivity analysis, Measure NaCL level 
 4	AIT202	pH analyser, Measures HCI level 
 5	AIT203 	ORP analyser, measure NaOCL level 
