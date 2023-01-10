@@ -37,6 +37,7 @@ Has two data set
 # HAI-HIL sensor Features and thier descrptions  
 
 |No	|Feature| 	Description|  
+|----|------------|----------| 
 |1|	P1_FCV03D|	Position command for the FCV03 valve | 
 |2|	P1_FCV03Z| 	Current position of the FCV03 valve |
 |3	|P1_PCV02D 	|Position command for the PCV2 valve |
