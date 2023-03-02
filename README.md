@@ -1,7 +1,7 @@
 # Anomaly detection for sensor data in industrial control system
 Has two data set 
-1. SWaT sensor data 
-2. HAI -HIL sensor data
+1. SWaT sensor data - https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/ 
+2. HAI -HIL sensor data - https://github.com/icsdataset/hai 
 
 
 # SWaT sensor Features and thier descrptions 
